@@ -1,0 +1,15 @@
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioPOO\bin\Debug\net6.0\DesafioPOO.exe
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioPOO\bin\Debug\net6.0\DesafioPOO.deps.json
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioPOO\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioPOO\bin\Debug\net6.0\DesafioPOO.dll
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioPOO\bin\Debug\net6.0\DesafioPOO.pdb
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioPOO\obj\Debug\net6.0\DesafioPOO.csproj.AssemblyReference.cache
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioPOO\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioPOO\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioPOO\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioPOO\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioPOO\obj\Debug\net6.0\DesafioPOO.dll
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioPOO\obj\Debug\net6.0\refint\DesafioPOO.dll
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioPOO\obj\Debug\net6.0\DesafioPOO.pdb
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioPOO\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioPOO\obj\Debug\net6.0\ref\DesafioPOO.dll
